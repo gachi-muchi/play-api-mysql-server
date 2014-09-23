@@ -1,2 +1,2 @@
-play-api-mysql-server
+play-app-mysql-server
 =====================
